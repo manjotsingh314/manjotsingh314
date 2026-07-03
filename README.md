@@ -1,12 +1,14 @@
 <div align="center">
 
-# Manjot Singh
+<img src="https://via.placeholder.com/1200x380/0A1428/00BFFF?text=Manjot+Singh&font=playfair" 
+     alt="Banner" 
+     style="border-radius: 12px; width: 100%; max-width: 1200px; box-shadow: 0 10px 30px rgba(0, 191, 255, 0.2);">
 
-**DevOps Engineer / Software Developer**
+<h1>Manjot Singh</h1>
 
-![Banner](https://via.placeholder.com/1200x300/0A1428/00BFFF?text=Manjot+Singh+-+Building+Scalable+Systems) <!-- Replace with your banner -->
+**DevOps Engineer | Software Developer**
 
-**Cloud Computing • AWS • Python • DevOps**
+**Cloud Computing • AWS • Python • Automation**
 
 ---
 
@@ -18,22 +20,22 @@
 
 ### About Me
 
-- 🔭 Currently working on **cloud infrastructure & automation projects**
-- 🌱 Learning **AWS, Linux, Docker, Kubernetes & CI/CD**
-- 💡 Passionate about **scalable systems, automation, and open source**
-- 📫 Reach out to me: [manjotsinghsahni1132@gmail.com](mailto:manjotsinghsahni1132@gmail.com)
+- 🔭 Currently building scalable cloud infrastructure and automation solutions
+- 🌱 Deep diving into **AWS, Docker, Kubernetes, Linux & CI/CD pipelines**
+- 💡 Passionate about clean code, DevOps practices, and open source
+- 📫 Open to collaborations and opportunities
 
 ---
 
 ### 🛠️ Skills & Technologies
 
-**Cloud** • AWS • Linux • Git • Docker • DevOps • Python • HTML • CSS • JavaScript
+**AWS** • **Linux** • **Docker** • **Git** • **Python** • **DevOps** • **CI/CD** • **HTML** • **JavaScript**
 
 ---
 
-### 📬 Connect With Me
+### 📬 Let's Connect
 
-<div style="display: flex; gap: 12px; justify-content: center; flex-wrap: wrap; margin: 25px 0;">
+<div style="display: flex; gap: 12px; justify-content: center; flex-wrap: wrap; margin: 30px 0;">
 
   <a href="https://github.com/manjotsingh314" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
@@ -62,3 +64,10 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manjotsingh314&layout=compact&theme=tokyonight)
 
 </div>
+
+<style>
+  body {
+    background: linear-gradient(135deg, #0A1428 0%, #1A2338 100%);
+    color: #e0f2ff;
+  }
+</style>
