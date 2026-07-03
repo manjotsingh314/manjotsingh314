@@ -1,84 +1,64 @@
-# Hi there, I'm Manjot Singh 👋
+<div align="center">
 
-![Profile Banner](https://via.placeholder.com/800x200?text=Manjot+Singh+-+Developer) <!-- Replace with your own banner image URL -->
+# Manjot Singh
 
-A passionate developer crafting elegant solutions with code. Minimalist by design, maximalist in impact.
+**DevOps Engineer / Software Developer**
+
+![Banner](https://via.placeholder.com/1200x300/0A1428/00BFFF?text=Manjot+Singh+-+Building+Scalable+Systems) <!-- Replace with your banner -->
+
+**Cloud Computing • AWS • Python • DevOps**
 
 ---
 
-## 🚀 About Me
+### Hi, I'm Manjot Singh 👋
 
-- **Name**: Manjot Singh
-- **Location**: [Your City, Country]
-- **Current Role**: [Your Position / Student / Developer]
-- **Interests**: Software Development, Open Source, Problem Solving
+**DevOps Engineer**
 
-I'm a dedicated learner and builder, always exploring new technologies and contributing to meaningful projects.
+---
 
-## 🎓 Education
+### About Me
 
-- **Degree**: [e.g., Bachelor of Technology in Computer Science]
-- **Institution**: [Your University/College Name]
-- **Year**: [Graduation Year]
-- **Achievements**: [Relevant achievements, projects, GPA, etc.]
+- 🔭 Currently working on **cloud infrastructure & automation projects**
+- 🌱 Learning **AWS, Linux, Docker, Kubernetes & CI/CD**
+- 💡 Passionate about **scalable systems, automation, and open source**
+- 📫 Reach out to me: [manjotsinghsahni1132@gmail.com](mailto:manjotsinghsahni1132@gmail.com)
 
-## 💼 Portfolio Highlights
+---
 
-Explore my pinned repositories below or check out all my projects on [GitHub Repositories](https://github.com/manjotsingh314?tab=repositories).
+### 🛠️ Skills & Technologies
 
-## 🛠️ Skills
+**Cloud** • AWS • Linux • Git • Docker • DevOps • Python • HTML • CSS • JavaScript
 
-- **Languages**: Python, JavaScript, Java, C++, etc.
-- **Frameworks & Tools**: [React, Node.js, Django, Docker, Git, etc.]
-- **Others**: [Cloud Platforms, Databases, etc.]
+---
 
-## 📬 Connect With Me
+### 📬 Connect With Me
 
-<div style="display: flex; gap: 15px; flex-wrap: wrap; justify-content: center; margin: 30px 0;">
+<div style="display: flex; gap: 12px; justify-content: center; flex-wrap: wrap; margin: 25px 0;">
 
-  <!-- GitHub -->
-  <a href="https://github.com/manjotsingh314" target="_blank" style="text-decoration: none;">
-    <button style="background-color: #333333; color: white; border: none; padding: 12px 28px; border-radius: 8px; cursor: pointer; display: flex; align-items: center; gap: 10px; font-size: 16px; transition: all 0.3s ease; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-      <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="26" height="26" style="filter: brightness(0) invert(1);">
-      GitHub
-    </button>
+  <a href="https://github.com/manjotsingh314" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/manjot-singh-b64b923a7" target="_blank" style="text-decoration: none;">
-    <button style="background-color: #0A66C2; color: white; border: none; padding: 12px 28px; border-radius: 8px; cursor: pointer; display: flex; align-items: center; gap: 10px; font-size: 16px; transition: all 0.3s ease; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png" alt="LinkedIn" width="26" height="26">
-      LinkedIn
-    </button>
+  <a href="https://www.linkedin.com/in/manjot-singh-b64b923a7" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 
-  <!-- Gmail -->
-  <a href="mailto:manjotsinghsahni1132@gmail.com?subject=Hello%20Manjot&body=Hi%20Manjot%2C%0A%0AI%20wanted%20to%20connect%20with%20you." target="_blank" style="text-decoration: none;">
-    <button style="background-color: #EA4335; color: white; border: none; padding: 12px 28px; border-radius: 8px; cursor: pointer; display: flex; align-items: center; gap: 10px; font-size: 16px; transition: all 0.3s ease; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png" alt="Gmail" width="26" height="26">
-      Email Me
-    </button>
+  <a href="mailto:manjotsinghsahni1132@gmail.com?subject=Hello%20Manjot" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 
-  <!-- Twitter / X -->
-  <a href="https://x.com/manjotsingh_314" target="_blank" style="text-decoration: none;">
-    <button style="background-color: #000000; color: white; border: none; padding: 12px 28px; border-radius: 8px; cursor: pointer; display: flex; align-items: center; gap: 10px; font-size: 16px; transition: all 0.3s ease; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Twitter_Logo_2021.svg/512px-Twitter_Logo_2021.svg.png" alt="X" width="26" height="26" style="filter: brightness(0) invert(1);">
-      Follow on 𝕏
-    </button>
+  <a href="https://x.com/manjotsingh_314" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
   </a>
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
-![Manjot's GitHub stats](https://github-readme-stats.vercel.app/api?username=manjotsingh314&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manjotsingh314&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manjotsingh314&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manjotsingh314&layout=compact&theme=tokyonight)
 
----
-
-*Minimal • Clean • Functional*  
-Made with ❤️ using Markdown & CSS
+</div>
