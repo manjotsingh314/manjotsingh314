@@ -1,13 +1,18 @@
 <p align="center">
 <img
 src="https://github.com/user-attachments/assets/92b53d57-5c7f-40fd-b4c9-b3d4bf01a799" 
-alt="https://i.pinimg.com/1200x/da/f2/86/daf286935aafe70d48767d74e0c9bdae.jpg"
+alt="https://chatgpt.com/s/m_6a476dff34d481918da8028c1c796b1b"
 width="100%">
 </p>
 
 <div align="center">
-  <h3>Hi, I'm Manjot Singh 👋</h3>
-  <h4>Software Developer & DevOps Enthusiast</h4>
+
+  
+  #  Hi, I'm Manjot Singh
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Cloud+Computing+Learner;DevOps+Engineer;Linux+%7C+Git+%7C+AWS;HTML+%7C+CSS+%7C+Python" />
+
+</div>
 
 ---
 
