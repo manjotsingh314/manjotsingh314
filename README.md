@@ -1,6 +1,7 @@
 <p align="center">
 <img
-src="https://chatgpt.com/s/m_6a476dff34d481918da8028c1c796b1b" 
+src="https://github.com/user-attachments/assets/92b53d57-5c7f-40fd-b4c9-b3d4bf01a799" 
+alt="ChatGPT Image Jul 2, 2026, 10_49_10 PM" 
 width="100%">
 </p>
 
@@ -15,26 +16,105 @@ width="100%">
 
 ---
 
-### About Me
+# 👨‍💻 About Me
 
-- 🔭 Building scalable cloud infrastructure and automation solutions
-- 🌱 Currently learning **AWS, Docker, Kubernetes & CI/CD**
-- 💡 Passionate about DevOps, clean architecture, and open source
-- 📫 Feel free to reach out!
 
----
 
-### 📬 Connect With Me
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manjotsingh314)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manjot-singh-b64b923a7)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manjotsinghsahni1132@gmail.com)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/manjotsingh_314)
+- 🌱 Learning **AWS, Linux, Git, Docker & DevOps**
+- 💻 Frontend: HTML, CSS
+- 🐍 Programming: Python, C++, C
+- 🎯 Goal: Become a Cloud & DevOps Engineer
+- 📍 Chandigarh, India
 
 ---
 
-### 📊 GitHub Stats
+# 🚀 Skills
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manjotsingh314&show_icons=true&theme=tokyonight)
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=linux" />
+<img src="https://skillicons.dev/icons?i=git" />
+<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=aws" />
+<img src="https://skillicons.dev/icons?i=docker" />
+<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://skillicons.dev/icons?i=html" />
+<img src="https://skillicons.dev/icons?i=css" />
+<img src="https://skillicons.dev/icons?i=vscode" />
+<img src="https://skillicons.dev/icons?i=ubuntu" />
+
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=manjotsingh314&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=amanjotsingh314&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manjotsingh314&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophy
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=manjotsingh314&theme=algolia&margin-w=10"/>
+
+</p>
+
+---
+
+# 📈 Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=manjotsingh314&theme=tokyo-night"/>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/manjotsingh_314-b456993a5?">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="mailto:manjotsinghsahni1132@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://github.com/manjotsingh314">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+</a>
+
+</p>
+
+---
+
+# 👀 Visitor Count
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=manjotsingh314&label=Profile+Views&color=blue&style=flat"/>
+
+</p>
+
+---
+
+# 💬 Quote
+
+> **"Keep Learning, Keep Building, Keep Growing." 🚀**
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile! ⭐
 
 </div>
