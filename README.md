@@ -1,40 +1,47 @@
 <div align="center">
-  <img src="https://via.placeholder.com/1200x380/0A1428/00BFFF?text=Manjot+Singh&font=playfair" 
-       alt="Banner" 
-       style="border-radius: 12px; width: 100%; max-width: 1200px; box-shadow: 0 10px 30px rgba(0, 191, 255, 0.2);">
 
-  <h1>Manjot Singh</h1>
-  <h3>DevOps Engineer | Software Developer</h3>
-
-  <p><strong>Cloud Computing • AWS • Python • Automation • DevOps</strong></p>
-
-  <hr>
+  <!-- Your Blue Background Banner -->
+  <div style="background-image: url('https://github.com/manjotsingh314/manjotsingh314/raw/main/download.jpeg');
+              background-size: cover;
+              background-position: center;
+              padding: 90px 20px; 
+              border-radius: 12px; 
+              margin-bottom: 30px;
+              position: relative;
+              box-shadow: 0 10px 30px rgba(0, 100, 200, 0.4);">
+    
+    <div style="background: rgba(10, 20, 40, 0.78); 
+                padding: 45px 20px; 
+                border-radius: 12px;">
+      
+      <h1 style="color: white; margin: 0; font-size: 44px; text-shadow: 0 3px 12px rgba(0,0,0,0.9);">Manjot Singh</h1>
+      <h2 style="color: #67E8F9; margin: 12px 0 22px 0; text-shadow: 0 2px 10px rgba(0,0,0,0.8);">DevOps Engineer</h2>
+      
+      <p style="color: #E0F2FE; font-size: 18px; margin: 0;">
+        Cloud Computing • AWS • Python • Docker • Automation
+      </p>
+    </div>
+  </div>
 
   <h3>Hi, I'm Manjot Singh 👋</h3>
 
-  <h4>DevOps Engineer</h4>
+  **Software Developer & DevOps Enthusiast**
 
-  <h3>About Me</h3>
-  <p>
-    🔭 Building scalable cloud solutions & automation<br>
-    🌱 Learning AWS, Docker, Kubernetes & CI/CD<br>
-    💡 Passionate about DevOps and clean infrastructure
-  </p>
+---
 
-  <h3>📬 Connect With Me</h3>
+### About Me
 
-  <div style="display: flex; gap: 12px; justify-content: center; flex-wrap: wrap; margin: 25px 0;">
-    <a href="https://github.com/manjotsingh314" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-    </a>
-    <a href="https://www.linkedin.com/in/manjot-singh-b64b923a7" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>
-    <a href="mailto:manjotsinghsahni1132@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-    </a>
-    <a href="https://x.com/manjotsingh_314" target="_blank">
-      <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
-    </a>
-  </div>
+- 🔭 Building scalable cloud infrastructure
+- 🌱 Learning AWS, Docker, Kubernetes & CI/CD
+- 📫 Open to new opportunities
+
+---
+
+### 📬 Connect With Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manjotsingh314)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manjot-singh-b64b923a7)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manjotsinghsahni1132@gmail.com)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/manjotsingh_314)
+
 </div>
