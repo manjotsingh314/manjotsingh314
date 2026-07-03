@@ -9,19 +9,6 @@
               margin-bottom: 30px;
               position: relative;
               box-shadow: 0 15px 35px rgba(0, 0, 0, 0.5);">
-    
-    <!-- Dark overlay for text readability -->
-    <div style="background: rgba(10, 15, 35, 0.82); 
-                padding: 50px 30px; 
-                border-radius: 12px;">
-      
-      <h1 style="color: #ffffff; margin: 0; font-size: 46px; text-shadow: 0 4px 15px rgba(0,0,0,0.9);">Manjot Singh</h1>
-      <h2 style="color: #67E8F9; margin: 15px 0 25px 0; text-shadow: 0 3px 12px rgba(0,0,0,0.9);">DevOps Engineer</h2>
-      
-      <p style="color: #E0F2FE; font-size: 19px; margin: 0; font-weight: 500;">
-        Cloud Computing • AWS • Python • Docker • Automation
-      </p>
-    </div>
   </div>
 
   <!-- Rest of the content -->
