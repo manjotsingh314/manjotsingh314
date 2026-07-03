@@ -1,6 +1,6 @@
 <p align="center">
 <img
-src="https://github.com/user-attachments/assets/92b53d57-5c7f-40fd-b4c9-b3d4bf01a799" 
+src="https://chatgpt.com/s/m_6a476dff34d481918da8028c1c796b1b" 
 alt="https://chatgpt.com/s/m_6a476dff34d481918da8028c1c796b1b"
 width="100%">
 </p>
