@@ -1,7 +1,7 @@
 <p align="center">
 <img
 src="https://github.com/user-attachments/assets/92b53d57-5c7f-40fd-b4c9-b3d4bf01a799" 
-alt="ChatGPT Image Jul 2, 2026, 10_49_10 PM" 
+alt="https://i.pinimg.com/1200x/da/f2/86/daf286935aafe70d48767d74e0c9bdae.jpg"
 width="100%">
 </p>
 
