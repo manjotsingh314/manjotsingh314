@@ -1,17 +1,11 @@
+<p align="center">
+<img
+src="https://github.com/user-attachments/assets/92b53d57-5c7f-40fd-b4c9-b3d4bf01a799" 
+alt="ChatGPT Image Jul 2, 2026, 10_49_10 PM" 
+width="100%">
+</p>
+
 <div align="center">
-
-  <!-- New Background Banner -->
-  <div style="background-image: url('https://i.pinimg.com/1200x/da/f2/86/daf286935aafe70d48767d74e0c9bdae.jpg');
-              background-size: cover;
-              background-position: center;
-              padding: 100px 20px; 
-              border-radius: 12px; 
-              margin-bottom: 30px;
-              position: relative;
-              box-shadow: 0 15px 35px rgba(0, 0, 0, 0.5);">
-  </div>
-
-  <!-- Rest of the content -->
   <h3>Hi, I'm Manjot Singh 👋</h3>
   <h4>Software Developer & DevOps Enthusiast</h4>
 
