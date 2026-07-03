@@ -1,7 +1,6 @@
 <p align="center">
 <img
 src="https://chatgpt.com/s/m_6a476dff34d481918da8028c1c796b1b" 
-alt="https://i.pinimg.com/1200x/da/f2/86/daf286935aafe70d48767d74e0c9bdae.jpg"
 width="100%">
 </p>
 
