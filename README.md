@@ -1,11 +1,4 @@
-<p align="center">
-<img
-src="https://github.com/user-attachments/assets/92b53d57-5c7f-40fd-b4c9-b3d4bf01a799" 
-alt="ChatGPT Image Jul 2, 2026, 10_49_10 PM" 
-width="100%">
-</p>
 
-<div align="center">
 
   
   #  Hi, I'm Manjot Singh
